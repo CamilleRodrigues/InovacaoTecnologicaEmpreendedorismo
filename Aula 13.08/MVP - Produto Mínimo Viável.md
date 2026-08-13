@@ -16,3 +16,22 @@
 - Rápido de lançar.
 - Testável com usuários reais.
 - Iterável: pode ser ajustado com base no feedback.
+
+**4. Tipos de MVP**
+- **Protótipo visual**: wireframes, mockups (telas, indicadores, entrada de dados).
+- **Landing page**: página explicando o produto e captando interesse (ferramentas como entrar em contato, e-mail, formulário, redes sociais).
+- **Concierge MVP**: serviço manual para simular a experiência (simular as funções de um aplicativo).
+- **Wizard of Oz MVP**: parece automatizado, mas é operado manualmente (simulação com dados fixos, porém com exemplo prático).
+- **Produto funcional mínimo**: versão básica do produto real (próprio MVP com funcionalidades básicas aplicadas e testadas).
+
+**5. Como validar um MVP?**
+- Entregar para um grupo pequeno de usuários.
+- Observar comportamento e coletar feedback.
+- Medir indicadores: uso, satisfação, intenção de compra.
+- Aprender e ajustar antes de escalar.
+
+**6. Erros comuns ao criar um MVP**
+- Criar algo muito complexo.
+- Ignorar o feedback dos usuários.
+- Focar em estética em vez de funcionalidade.
+- Não definir claramente o que se quer validar.
