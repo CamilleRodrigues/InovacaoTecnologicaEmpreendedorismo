@@ -1,19 +1,18 @@
 1. O que é o MVP (Produto Mínimo Viável)?
-  a) É a versão mais simples de um produto que ainda entrega valor ao cliente, 
-  permitindo testar hipóteses com MÍNIMO de esforço e investimento.
-  b) Validar a ideia com terceiros, mesmo que não esteja 100%. 
-  c) Ideia mínima com funcionalidades básicas bem definidas.
-  d) O seu foco é aprender com o cliente (saber escutar o outro lado), não focando apenas em venda.
+- É a versão mais simples de um produto que ainda entrega valor ao cliente, permitindo testar hipóteses com MÍNIMO de esforço e investimento.
+- Validar a ideia com terceiros, mesmo que não esteja 100%.
+- Ideia mínima com funcionalidades básicas bem definidas.
+- O seu foco é aprender com o cliente (saber escutar o outro lado), não focando apenas em venda.
 
 2. Por que criar um MVP?
-  a) Reduz riscos financeiros, ajudando na economia de tempo e recursos.
-  b) Valida ideias antes de escalar (vender).
-  c) Facilita o feedback real do mercado.
-  d) Evita construir algo que ninguém quer.
+- Reduz riscos financeiros, ajudando na economia de tempo e recursos.
+- Valida ideias antes de escalar (vender).
+- Facilita o feedback real do mercado.
+- Evita construir algo que ninguém quer.
 
 3. Características de um MVP
-  a) Funcionalidade essencial.
-  b) Baixo custo de desenvolvimento.
-  c) Rápido de lançar.
-  d) Testável com usuários reais.
-  e) Iterável: pode ser ajustado com base no feedback.
+- Funcionalidade essencial.
+- Baixo custo de desenvolvimento.
+- Rápido de lançar.
+- Testável com usuários reais.
+- Iterável: pode ser ajustado com base no feedback.
